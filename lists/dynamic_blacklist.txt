@@ -155,5 +155,8 @@ api.ad.intl.xiaomi.com
 adsmetadata.mobileadexchange.net 
 cloud2.gsdk.proximabeta.com
 ff.imacdn.com
+doh.dns.apple.com
+mask.icloud.com
+mask-h2.icloud.com
 sponsor.imacdn.com
 qcc.qualcomm.com
